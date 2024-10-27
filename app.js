@@ -12,21 +12,21 @@ for (var i = 0; i < str.length; i++) {
 
 }
 
- var str = ["A","B","C","D","@"];
+//  var str = ["A","B","C","D","@"];
 
-for (var i = 0; i < str.length; i++) {
+// for (var i = 0; i < str.length; i++) {
 
-  var random = Math.floor(Math.random() * str.length)
-  document.write(str[random])
+//   var random = Math.floor(Math.random() * str.length)
+//   document.write(str[random])
 
-}
+// }
 
 
-var str = prompt("Enter any 4 or 5 characters from which the password should be made");
+// var str = prompt("Enter any 4 or 5 characters from which the password should be made");
 
-for (var i = 0; i < str.length; i++) {
+// for (var i = 0; i < str.length; i++) {
 
-  var random = Math.floor(Math.random() * str.length)
-  document.write(str[random])
+//   var random = Math.floor(Math.random() * str.length)
+//   document.write(str[random])
 
-}
+// }
